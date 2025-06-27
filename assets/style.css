@@ -1,0 +1,28 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background: linear-gradient(to right, #1e1e2f, #2a2a40);
+      color: #fff;
+    }
+
+    header {
+      padding: 2rem;
+      background: #111;
+      text-align: center;
+      box-shadow: 0 0 10px #000;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      color: #00ffe5;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #ccc;
+    }

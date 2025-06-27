@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #005fa3;
+}
+
+.actions a {
+    display: block;
+    margin: 10px 0;
+    font-size: 16px;
+    text-decoration: none;
+    color: #333;
+}
+
+.actions a:hover {
+    text-decoration: underline;
+    color: green;
+}
